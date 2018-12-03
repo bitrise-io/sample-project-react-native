@@ -29,7 +29,7 @@
         "name": "iPhone 7"
       },
       "ios.sim.release": {
-        "binaryPath": "ios/build/Build/Products/Debug-iphonesimulator/SampleProjectReactNative.app",
+        "binaryPath": "ios/build/Build/Products/Release-iphonesimulator/SampleProjectReactNative.app",
         "build": "xcodebuild -project ios/SampleProjectReactNative.xcodeproj -scheme SampleProjectReactNative -configuration Release -sdk iphonesimulator -derivedDataPath ios/build -UseNewBuildSystem=NO",
         "type": "ios.simulator",
         "name": "iPhone 7"
