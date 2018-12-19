@@ -1215,6 +1215,7 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = SampleProjectReactNative;
+				TARGET_BUILD_DIR = build/;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1232,6 +1233,7 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = SampleProjectReactNative;
+				TARGET_BUILD_DIR = build/;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
